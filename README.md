@@ -1,6 +1,6 @@
 # [Happy Birthday, Orly!](https://hb-orly-server.onrender.com)
 
-Simple HTML5 game created for the birthday of my beloved girlfriend Orly.  
+Simple HTML5 game created for the birthday Wishes.  
 Built with [Phaser 3](https://phaser.io/phaser3) game framework.  
 [Enjoy!](https://hb-orly-server.onrender.com)
 

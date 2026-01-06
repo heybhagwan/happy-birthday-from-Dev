@@ -36,8 +36,8 @@ const DIALOGS: ILevelDialog[] = [
 		hint: '(?) Come on, just look at the bottom of the screen!'
 	},
 	{
-		question: 'How many gifts do you want for your birthday?',
-		answers: [],
+		question: 'How many People have wishes you like this?',
+		answers: ['1'],
 		type: 'number'
 	}
 ];
