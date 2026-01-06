@@ -10,17 +10,17 @@ export interface ILevelDialog {
 const DIALOGS: ILevelDialog[] = [
 	{
 		question: 'What is your name?',
-		answers: ['orly', 'орли', 'אורלי'],
-		hint: '(?) This game is made for my beloved girlfriend...'
+		answers: ['vishu', 'vishant', 'tondu'],
+		hint: '(?) This game is made by Shree Dev...'
 	},
 	{
 		question:
-			'Who is the best guy in the world?<br>' +
+			'Who is your "Chota bhai" ?<br>' +
 			'<span class="dialog-hint">(...he made this game)</span>',
 		answers: [
-			'alex',
-			'alexey',
-			'aleksey',
+			'dev',
+			'devansh',
+			'dc',
 			'oleksii',
 			'алекс',
 			'алексей',
