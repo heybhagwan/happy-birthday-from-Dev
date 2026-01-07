@@ -10,7 +10,8 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 const prod = {
 	mode: 'production',
 	output: {
-		filename: 'game.[contenthash].js'
+		filename: 'game.[contenthash].js' ,
+		publicPath: '/happy-birthday-from-Dev/' ,
 	},
 	optimization: {
 		splitChunks: {
